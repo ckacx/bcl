@@ -1,7 +1,7 @@
 {
 "posts": [
 { "id": 1, "title": "first post", "author": "john"},
-{"id": 2, "title": "another post", "author": "jim"}
+{"id": 2, "title": "another-- post", "author": "jim"}
 ],
 "profile": { "name": "typicode"}
 }
